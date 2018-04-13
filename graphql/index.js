@@ -3,12 +3,12 @@ const resolvers = require("./resolvers");
 
 const typeDefs = `
   type Example {
-    id: ID
+    exampleName: String
     example: String
   }
 
   type Query {
-    exampleQuery(example: String!): Example
+    exampleQuery(exampleName: String!): Example
   }
 `;
 

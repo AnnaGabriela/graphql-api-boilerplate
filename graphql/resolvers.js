@@ -1,7 +1,7 @@
 const resolverMap = {
   Query: {
     exampleQuery(obj, args, context) {
-      console.log(obj, args, context);
+      return { exampleName: args.exampleName, example: "Example!" };
     }
   }
 }
