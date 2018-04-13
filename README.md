@@ -1,4 +1,4 @@
-# GraphQL API
+# GraphQL API Boilerplate
 
 ``` bash
 # clone the project
