@@ -14,4 +14,4 @@ $ npm server.js
 **Obs:** *The GraphiQL is enabled by default and it's available at 'localhost:PORT/graphiql'*
 
 GraphiQL example:
-![Example]('./example.png')
+![Example](example.png)
